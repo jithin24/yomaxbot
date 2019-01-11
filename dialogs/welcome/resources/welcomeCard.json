@@ -29,17 +29,17 @@
   "actions": [
     {
       "type": "Action.OpenUrl",
-      "title": "Get an overview",
+      "title": "Get an Overview",
       "url": "https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0"
     },
     {
       "type": "Action.OpenUrl",
-      "title": "Ask a question",
+      "title": "Ask a Question",
       "url": "https://stackoverflow.com/questions/tagged/botframework"
     },
     {
       "type": "Action.OpenUrl",
-      "title": "Learn how to deploy",
+      "title": "Deploy to Azure",
       "url": "https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-deploy-azure?view=azure-bot-service-4.0"
     }
   ]
